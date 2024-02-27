@@ -28,4 +28,4 @@ This data comes from the UCI Machine Learning repository and was collected via a
 5. Avoid issuing coupons if destination is more than 25min
    
 **Links:**
-Link to report - 
+Link to report -  https://nbviewer.org/github/Satish-Nichanametla/Coupon_Data_Analysis/blob/main/prompt.ipynb
